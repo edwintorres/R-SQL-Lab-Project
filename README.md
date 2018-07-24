@@ -1,8 +1,5 @@
----
-title: "R SQL Lab Project"
-output: html_document
----
-
+R SQL Lab Project
+===========
 This is an personal lab project to test integration between Microsoft R and SQL Server 2017. 
 
 You can download the tools in the following links:
