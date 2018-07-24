@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "R SQL Lab Project", "R SQL Lab Project\R SQL Lab Project.rxproj", "{19A481B8-27AA-411A-A677-670634AB26FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A481B8-27AA-411A-A677-670634AB26FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A481B8-27AA-411A-A677-670634AB26FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A481B8-27AA-411A-A677-670634AB26FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A481B8-27AA-411A-A677-670634AB26FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E344272-7A05-4663-8C09-CF48CBA7DE65}
+	EndGlobalSection
+EndGlobal
